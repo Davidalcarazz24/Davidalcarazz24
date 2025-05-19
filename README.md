@@ -24,8 +24,6 @@ Soy un apasionado de la tecnología, la programación orientada a objetos y el d
 ---
 
 ## 📫 ¿Hablamos?
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/davidalcaraz)
 - 🌐 Página personal: próximamente...
 
 ---
